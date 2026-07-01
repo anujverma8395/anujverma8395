@@ -71,8 +71,6 @@ Tourism platform for Jharkhand.
 
 ## 📊 GitHub Stats
 
-> After saving this README, replace **YOUR_USERNAME** below with
-> **anujverma8395** if needed.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=anujverma8395&show_icons=true&theme=tokyonight)
 
