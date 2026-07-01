@@ -53,25 +53,6 @@ Tourism platform promoting Jharkhand tourism.
 
 </details>
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anujverma8395&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujverma8395&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=anujverma8395&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujverma8395&theme=tokyo-night"/>
-</p>
-
----
-
 ## 📫 Connect
 
 - 📧 Email: **itsanuj20@gmail.com**
